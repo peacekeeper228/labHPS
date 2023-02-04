@@ -1,0 +1,1 @@
+curl "http://worldtimeapi.org/api/timezone/Europe/Moscow"
